@@ -1,2 +1,2 @@
 # farasabina
-CSV data processing and manipulation for a psychopy psychology experiment
+CSV data processing and manipulation for a PsychoPy psychology experiment
